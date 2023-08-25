@@ -1,3 +1,11 @@
+package frl.hacklab.librarysystem;
+
+import DVD;
+import Dictionary;
+import Encyclopedia;
+import LibrarySubsystem;
+import Magazine;
+
 public class Main {
     public static void main(String[] args) {
         LibrarySubsystem librarySubsystem = new LibrarySubsystem();

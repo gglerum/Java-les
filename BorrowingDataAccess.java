@@ -1,3 +1,4 @@
+import frl.hacklab.librarysystem.LibraryItem;
 
 class BorrowingDataAccess {
     private BorrowingStatusDAO dao;

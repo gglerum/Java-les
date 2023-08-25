@@ -1,3 +1,4 @@
+package frl.hacklab.librarysystem;
 
 class LibraryItemBorrowing {
     private boolean onLoan;

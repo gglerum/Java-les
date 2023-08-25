@@ -1,3 +1,4 @@
+import frl.hacklab.librarysystem.Displayable;
 
 class ReferenceItem implements Displayable {
     private String title;

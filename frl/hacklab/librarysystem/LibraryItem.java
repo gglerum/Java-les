@@ -1,3 +1,4 @@
+package frl.hacklab.librarysystem;
 
 class LibraryItem implements Displayable {
     private LibraryItemDetails details;

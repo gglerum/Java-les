@@ -1,3 +1,5 @@
+import frl.hacklab.librarysystem.LibraryItem;
+
 interface BorrowingStatusDAO {
     boolean isItemOnLoan(LibraryItem item);
 

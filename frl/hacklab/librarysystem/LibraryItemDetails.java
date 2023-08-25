@@ -1,3 +1,4 @@
+package frl.hacklab.librarysystem;
 
 class LibraryItemDetails implements Displayable {
     private String title;

@@ -1,4 +1,4 @@
-package javales.dao;
+import frl.hacklab.librarysystem.LibraryItem;
 
 class MockBorrowingStatusDAO implements BorrowingStatusDAO {
 

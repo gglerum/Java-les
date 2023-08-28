@@ -1,6 +1,6 @@
-import frl.hacklab.librarysystem.LibraryItem;
+package frl.hacklab.librarysystem.item;
 
-class Magazine extends LibraryItem {
+public class Magazine extends LibraryItem {
     public Magazine(String title, String author, int year) {
         super(title, author, year);
     }

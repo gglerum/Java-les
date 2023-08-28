@@ -1,5 +1,6 @@
+package frl.hacklab.librarysystem.item;
 
-class Encyclopedia extends ReferenceItem {
+public class Encyclopedia extends ReferenceItem {
     public Encyclopedia(String title, String description) {
         super(title, description);
     }

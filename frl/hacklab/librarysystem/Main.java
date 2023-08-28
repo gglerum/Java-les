@@ -1,10 +1,10 @@
 package frl.hacklab.librarysystem;
 
-import DVD;
-import Dictionary;
-import Encyclopedia;
-import LibrarySubsystem;
-import Magazine;
+import frl.hacklab.librarysystem.item.Book;
+import frl.hacklab.librarysystem.item.DVD;
+import frl.hacklab.librarysystem.item.Dictionary;
+import frl.hacklab.librarysystem.item.Encyclopedia;
+import frl.hacklab.librarysystem.item.Magazine;
 
 public class Main {
     public static void main(String[] args) {

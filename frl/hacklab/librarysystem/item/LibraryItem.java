@@ -1,6 +1,10 @@
-package frl.hacklab.librarysystem;
+package frl.hacklab.librarysystem.item;
 
-class LibraryItem implements Displayable {
+import frl.hacklab.librarysystem.display.Displayable;
+import frl.hacklab.librarysystem.display.LibraryItemDetails;
+import frl.hacklab.librarysystem.borrowing.LibraryItemBorrowing;
+
+public class LibraryItem implements Displayable {
     private LibraryItemDetails details;
     private LibraryItemBorrowing borrowing;
 

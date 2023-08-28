@@ -1,6 +1,9 @@
-import frl.hacklab.librarysystem.LibraryItem;
+package frl.hacklab.librarysystem.borrowing;
 
-class BorrowingDataAccess {
+import frl.hacklab.librarysystem.dao.BorrowingStatusDAO;
+import frl.hacklab.librarysystem.item.LibraryItem;
+
+public class BorrowingDataAccess {
     private BorrowingStatusDAO dao;
 
     public BorrowingDataAccess(BorrowingStatusDAO dao) {

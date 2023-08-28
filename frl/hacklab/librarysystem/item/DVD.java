@@ -1,6 +1,6 @@
-import frl.hacklab.librarysystem.LibraryItem;
+package frl.hacklab.librarysystem.item;
 
-class DVD extends LibraryItem {
+public class DVD extends LibraryItem {
     public DVD(String title, String author, int year) {
         super(title, author, year);
     }

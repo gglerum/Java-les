@@ -1,5 +1,6 @@
+package frl.hacklab.librarysystem.item;
 
-class Dictionary extends ReferenceItem {
+public class Dictionary extends ReferenceItem {
     public Dictionary(String title, String description) {
         super(title, description);
     }

@@ -1,6 +1,6 @@
-package frl.hacklab.librarysystem;
+package frl.hacklab.librarysystem.borrowing;
 
-class LibraryItemBorrowing {
+public class LibraryItemBorrowing {
     private boolean onLoan;
 
     public LibraryItemBorrowing() {

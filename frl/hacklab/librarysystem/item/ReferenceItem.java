@@ -1,6 +1,8 @@
-import frl.hacklab.librarysystem.Displayable;
+package frl.hacklab.librarysystem.item;
 
-class ReferenceItem implements Displayable {
+import frl.hacklab.librarysystem.display.Displayable;
+
+public class ReferenceItem implements Displayable {
     private String title;
     private String description;
 

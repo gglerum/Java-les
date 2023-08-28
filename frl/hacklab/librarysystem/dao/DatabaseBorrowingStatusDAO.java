@@ -1,6 +1,8 @@
-import frl.hacklab.librarysystem.LibraryItem;
+package frl.hacklab.librarysystem.dao;
 
-class MockBorrowingStatusDAO implements BorrowingStatusDAO {
+import frl.hacklab.librarysystem.item.LibraryItem;
+
+class DatabaseBorrowingStatusDAO implements BorrowingStatusDAO {
 
     @Override
     public boolean isItemOnLoan(LibraryItem item) {
@@ -13,5 +15,5 @@ class MockBorrowingStatusDAO implements BorrowingStatusDAO {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'updateBorrowingStatus'");
     }
-    // Implement methods using mock data (for testing, etc.)
+    // Implement methods using database interactions
 }

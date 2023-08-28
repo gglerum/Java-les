@@ -1,6 +1,6 @@
-package frl.hacklab.librarysystem;
+package frl.hacklab.librarysystem.display;
 
-class LibraryItemDetails implements Displayable {
+public class LibraryItemDetails implements Displayable {
     private String title;
     private String author;
     private int year;

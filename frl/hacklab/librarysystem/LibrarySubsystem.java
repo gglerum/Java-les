@@ -1,9 +1,11 @@
+package frl.hacklab.librarysystem;
+
 import java.util.ArrayList;
 import java.util.List;
 
-import frl.hacklab.librarysystem.Displayable;
+import frl.hacklab.librarysystem.display.Displayable;
 
-class LibrarySubsystem {
+public class LibrarySubsystem {
     private List<Displayable> items = new ArrayList<>();
 
     public void addItem(Displayable item) {

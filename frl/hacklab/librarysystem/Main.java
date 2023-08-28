@@ -11,9 +11,9 @@ public class Main {
         LibrarySubsystem librarySubsystem = new LibrarySubsystem();
 
         // Add library items
-        librarySubsystem.addItem(new Book("Book Title", "Author", 2023));
-        librarySubsystem.addItem(new Magazine("Magazine Title", "Editor", 2023));
-        librarySubsystem.addItem(new DVD("DVD Title", "Director", 2023));
+        librarySubsystem.addItem(new Book("1234567","Book Title", "Author", 2023));
+        librarySubsystem.addItem(new Magazine("2345678", "Magazine Title", "Editor", 2023));
+        librarySubsystem.addItem(new DVD("3456789", "DVD Title", "Director", 2023));
 
         // Add reference items
         librarySubsystem.addItem(new Dictionary("English Dictionary", "A comprehensive dictionary."));

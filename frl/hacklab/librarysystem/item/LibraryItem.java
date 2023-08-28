@@ -8,8 +8,8 @@ public class LibraryItem implements Displayable {
     private LibraryItemDetails details;
     private LibraryItemBorrowing borrowing;
 
-    public LibraryItem(String title, String author, int year) {
-        this.details = new LibraryItemDetails(title, author, year);
+    public LibraryItem(String ean, String title, String author, int year) {
+        this.details = new LibraryItemDetails(ean, title, author, year);
         this.borrowing = new LibraryItemBorrowing();
     }
 

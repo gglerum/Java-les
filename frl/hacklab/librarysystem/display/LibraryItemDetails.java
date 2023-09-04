@@ -1,10 +1,27 @@
 package frl.hacklab.librarysystem.display;
 
 public class LibraryItemDetails implements Displayable {
-    private String title;
-    private String author;
-    private int year;
-    private String ean;
+    private final String title;
+    private final String author;
+    private final int year;
+
+    public String getTitle() {
+        return title;
+    }
+
+    public String getAuthor() {
+        return author;
+    }
+
+    public int getYear() {
+        return year;
+    }
+
+    public String getEan() {
+        return ean;
+    }
+
+    private final String ean;
 
     public LibraryItemDetails(String ean, String title, String author, int year) {
         this.ean = ean;

@@ -4,17 +4,22 @@ import frl.hacklab.librarysystem.dao.BorrowingStatusDAO;
 import frl.hacklab.librarysystem.item.LibraryItem;
 
 public class BorrowingDataAccess {
-    private BorrowingStatusDAO dao;
+    private final BorrowingStatusDAO dao;
+    private LibraryItem item;
 
     public BorrowingDataAccess(BorrowingStatusDAO dao) {
         this.dao = dao;
     }
 
-    public boolean isItemOnLoan(LibraryItem item) {
-        return dao.isItemOnLoan(item);
+    public boolean isItemOnLoan() {
+        return dao.isItemOnLoan(this.item);
     }
 
-    public void updateBorrowingStatus(LibraryItem item, boolean onLoan) {
-        dao.updateBorrowingStatus(item, onLoan);
+    public void updateBorrowingStatus(boolean onLoan) {
+        dao.updateBorrowingStatus(this.item, onLoan);
+    }
+
+    public void setLibraryItem(LibraryItem item) {
+        this.item = item;
     }
 }

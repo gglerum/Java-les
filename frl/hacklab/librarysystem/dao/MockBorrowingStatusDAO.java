@@ -1,15 +1,12 @@
 package frl.hacklab.librarysystem.dao;
 
-import frl.hacklab.librarysystem.item.Book;
-import frl.hacklab.librarysystem.item.DVD;
 import frl.hacklab.librarysystem.item.LibraryItem;
-import frl.hacklab.librarysystem.item.Magazine;
 
 import java.util.*;
 
 public class MockBorrowingStatusDAO implements BorrowingStatusDAO {
 
-    Map<String, Boolean> mockItems = new HashMap<>();
+    final Map<String, Boolean> mockItems = new HashMap<>();
 
     public MockBorrowingStatusDAO() {
         mockItems.put("1234567", false);

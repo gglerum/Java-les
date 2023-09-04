@@ -43,6 +43,6 @@ public class LibraryItem implements Displayable {
     }
 
     public String getEan() {
-        return this.details.getEan();
+        return this.details.ean();
     }
 }

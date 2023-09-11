@@ -16,7 +16,7 @@ public class ReferenceItem implements Displayable {
    * @param title       of the reference item
    * @param description of the reference item
    */
-  private ReferenceItem(String ean, String title, String description) {
+  protected ReferenceItem(String ean, String title, String description) {
     this.ean = ean;
     this.title = title;
     this.description = description;

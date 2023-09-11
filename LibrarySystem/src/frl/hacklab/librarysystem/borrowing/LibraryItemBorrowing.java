@@ -19,7 +19,7 @@ public class LibraryItemBorrowing {
   /**
    * @return data access to borrowing dao
    */
-  public BorrowingDataAccess getBorrowingDataAccess() {
+  public BorrowingDataAccess getBorrowingDataAccess() throws NullPointerException {
     if (borrowingDataAccess == null) {
       throw new NullPointerException(
           "BorrowingDataAccess was not injected with setter method (setBorrowingDataAccess)");

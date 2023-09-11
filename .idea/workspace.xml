@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ae15377-1636-4318-b73c-54bd98b95075" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/4348d313985165bd99e8da74b4cb5c7470d5cfd0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/48184663113900a54f235b1ba90304985628ffc7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b2e3b519004a9f8b1d2a842ca0a1676402646fe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a3c596ccb081e0aecef7db3fada582a353c8075" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0835483dd269c2fe5236c3ac8104652912d7866" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb05f131b16a6e7480a13df2cb7a4b9fe07e6e79" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d515c2f80697334912c7a256476127b83f896f24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f795384b30f42a773d2e05d6c4a00166a71de979" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/3/4348d313985165bd99e8da74b4cb5c7470d5cfd0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/8/48184663113900a54f235b1ba90304985628ffc7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/b/5b2e3b519004a9f8b1d2a842ca0a1676402646fe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/a/6a3c596ccb081e0aecef7db3fada582a353c8075" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/0/b0835483dd269c2fe5236c3ac8104652912d7866" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/b/cb05f131b16a6e7480a13df2cb7a4b9fe07e6e79" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/5/d515c2f80697334912c7a256476127b83f896f24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/7/f795384b30f42a773d2e05d6c4a00166a71de979" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-les.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qodana.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/LibrarySubsystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/borrowing/BorrowingDataAccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/borrowing/LibraryItemBorrowing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/borrowing/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/dao/BorrowingStatusDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/dao/DatabaseBorrowingStatusDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/dao/MockBorrowingStatusDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/dao/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/display/Displayable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/display/LibraryItemDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/display/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/item/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/item/DVD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/item/Dictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/item/Encyclopedia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/item/LibraryItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/item/Magazine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/item/ReferenceItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/item/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frl/hacklab/librarysystem/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/frl/hacklab/librarysystem/BookTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/frl/hacklab/librarysystem/LibrarySubsystemTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2VFfNjUnbavf62nB82f6sIEOd93" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Glenn/Documents/Java/Java-les/LibrarySystem"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ae15377-1636-4318-b73c-54bd98b95075" name="Changes" comment="" />
+      <created>1694436715181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694436715181</updated>
+    </task>
+    <servers />
+  </component>
+</project>
